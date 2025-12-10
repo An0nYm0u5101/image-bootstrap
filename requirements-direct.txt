@@ -4,3 +4,4 @@ lxml==4.6.2
 pytest==6.2.2
 PyYAML==5.4.1
 requests==2.25.1
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
